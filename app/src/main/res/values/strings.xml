@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZenThread</string>
+    <string name="zenthread">ZenThread</string>
+    <string name="from">From</string>
+    <string name="aayush_pawar">Aayush Pawar</string>
+    <string name="image_showing_icon_of_application">image showing icon of application</string>
+    <string name="text_telling_name_of_application">text telling name of application</string>
+    <string name="text_specify_from">text specify from</string>
+    <string name="text_telling_developer_name">text telling developer name</string>
+    <string name="login">Login</string>
+    <string name="sign_in_to_continue">Sign in to continue.</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+</resources>

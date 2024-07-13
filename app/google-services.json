@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44961583579",
+    "project_id": "zenthread-68088",
+    "storage_bucket": "zenthread-68088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44961583579:android:8c6bf310f25f65b70ed7fe",
+        "android_client_info": {
+          "package_name": "com.example.zenthread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw_gs9M2IY8_iJcY1XCFvvKr8ZR0Zc5-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
